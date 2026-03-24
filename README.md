@@ -54,7 +54,7 @@ The analysis focuses on **how users behave**, **where revenue is lost**, and **w
 
 ## Tools & Skills Used 🛠️
 - **Python**
-- **Pandas**
+- **Pandas** 
 - **Matplotlib**
 - **Seaborn**
 - Exploratory Data Analysis (EDA)
@@ -71,5 +71,5 @@ This project demonstrates how structured data analysis can uncover hidden revenu
 ---
 
 ## Author
-**Amit**  
+**Amit Kumar Mishra**  
  Data Analyst | Python | SQL | Business Analytics
