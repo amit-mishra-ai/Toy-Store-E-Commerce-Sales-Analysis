@@ -6,7 +6,7 @@ This project analyzes a toy-store e-commerce dataset using Python to identify pe
 The analysis focuses on **how users behave**, **where revenue is lost**, and **what actions the business should take to improve overall performance**.
 
 ---
-
+   
 ## Business Questions Addressed
 - How efficient is the session-to-order conversion funnel?
 - Where is revenue being lost due to refunds?
