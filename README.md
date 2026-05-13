@@ -50,7 +50,7 @@ This project answers important e-commerce business questions such as:
 
 ## Revenue & Sales
 - What is the total revenue generated?
-- Which products generate the highest sales?
+- Which products generate the highest sales? 
 - What are the yearly and monthly revenue trends?
 
 ## Customer Behavior
